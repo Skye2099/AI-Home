@@ -1,1 +1,0 @@
-![](https://raw.githubusercontent.com/wiki/Skye2099/AI-Home/rs_architechture.png)
